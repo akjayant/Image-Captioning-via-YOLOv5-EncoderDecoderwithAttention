@@ -16,14 +16,17 @@ python train.py False
 Does okayish only not above SoA.
 []()
 <br>
+```
 correct -  [This is a black dog splashing in the water, A black lab with tags frolicks in the water ,A black dog running in the surf,The black dog runs through the water]
 <br>
 prediction- [['<SOS>'], ['a'], ['black'], ['dog'], ['is'], ['a'], ['a'], ['water'], ['.'], ['<EOS>']]
+```
 
 []()
+```
 correct -  A black dog and a spotted dog are fighting
 <br>
 prediction- [['<SOS>'], ['a'], ['black'], ['and'], ['white'], ['dog'], ['is'], ['running'], ['through'], ['a'], ['.'], ['<EOS>']]
-
+```
 
 
