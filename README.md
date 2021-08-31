@@ -13,7 +13,7 @@ python train.py True
 ```
 python train.py False
 ```
-4 . Does okayish. Mean BLEU-4 score on validation data = 0.42  (0r 42 on a scale of 100)
+4. Does okayish. Mean BLEU-4 score on validation data = 0.42  (0r 42 on a scale of 100)
 5. Sample predictions - 
 
 ![2.jpg](https://github.com/akjayant/Image-Captioning-via-YOLOv5-EncoderDecoderwithAttention/blob/main/test_images/2.jpg)
