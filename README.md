@@ -13,8 +13,9 @@ python train.py True
 ```
 python train.py False
 ```
-Does okayish only not above SoA.
-![1.jpg](https://github.com/akjayant/Image-Captioning-via-YOLOv5-EncoderDecoderwithAttention/blob/main/test_images/2.jpg)
+4 . Does okayish only not above SoA.
+
+![2.jpg](https://github.com/akjayant/Image-Captioning-via-YOLOv5-EncoderDecoderwithAttention/blob/main/test_images/2.jpg)
 
 ```
 correct -  [This is a black dog splashing in the water, A black lab with tags frolicks in the water ,A black dog running in the surf,The black dog runs through the water]
@@ -22,7 +23,7 @@ correct -  [This is a black dog splashing in the water, A black lab with tags fr
 prediction- [['<SOS>'], ['a'], ['black'], ['dog'], ['is'], ['a'], ['a'], ['water'], ['.'], ['<EOS>']]
 ```
 
-![2.jpg](https://github.com/akjayant/Image-Captioning-via-YOLOv5-EncoderDecoderwithAttention/blob/main/test_images1.jpg)
+![1.jpg](https://github.com/akjayant/Image-Captioning-via-YOLOv5-EncoderDecoderwithAttention/blob/main/test_images/1.jpg)
 ```
 correct -  A black dog and a spotted dog are fighting
 
