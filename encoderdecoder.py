@@ -257,7 +257,7 @@ def trainIters(encoder, decoder, n_iters, print_every=1000, plot_every=100, lear
 
 
 
-crop_path = '/media/ashish-j/B/wheat_detection/flick_data/detection_data/Images/'
+crop_path = './detection_data/Images/'
 
 #---------feature extraction------------------
 train_flag=sys.argv[1]
@@ -269,7 +269,7 @@ if train_flag=='True':
     files_names_set = set(files_names)
 
     c=0
-    original_file_path = '/media/ashish-j/B/wheat_detection/flick_data/Images/'
+    original_file_path = './Images/'
     for i in range(len(files_list)):
         base_name = files_list[i].split("/")[-4]
         b_idx = base_name
