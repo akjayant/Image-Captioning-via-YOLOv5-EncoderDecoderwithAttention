@@ -2,6 +2,8 @@
 
 Use original Flickr8K dataset. - https://www.kaggle.com/datasets/adityajn105/flickr8k 
 
+PUT 'Images' and 'captions.txt' in the same directory as in root of this repo.
+
 
 Attempt for Image Captioning using combination of object detection via YOLOv5 and Encoder Decoder LSTM model on Flickr8K dataset.
 
