@@ -19,8 +19,7 @@ python train.py True
 ```
 python train.py False
 ```
-4. Does okayish. Mean BLEU-4 score on validation data = 0.42  (0r 42 on a scale of 100)
-5. Sample predictions - 
+4. Sample predictions - 
 
 ![2.jpg](https://github.com/akjayant/Image-Captioning-via-YOLOv5-EncoderDecoderwithAttention/blob/main/test_images/2.jpg)
 
@@ -37,7 +36,7 @@ A black dog and a white dog with brown spots are staring at each other in the st
 
 prediction- [['<SOS>'], ['a'], ['black'], ['and'], ['white'], ['dog'], ['is'], ['running'], ['through'], ['a'], ['.'], ['<EOS>']]
 ```
- 
+ 5. Mean BLEU-4 score on validation data is quite low. Suggested Improvements : Use Adam and shuffling of data. Maybe minibatching. Increasing number of datapoints combining other datasets since 8k is quite low smaple size.
 
 
 ## Citation (Flickr8K Dataset)
