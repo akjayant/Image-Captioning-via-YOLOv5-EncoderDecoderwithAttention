@@ -1,4 +1,7 @@
 # Image-Captioning-via-YOLOv5-EncoderDecoderwithAttention
+
+Use original Flickr8K dataset. - https://www.kaggle.com/datasets/adityajn105/flickr8k 
+
 Attempt for Image Captioning using combination of object detection via YOLOv5 and Encoder Decoder LSTM model on Flickr8K dataset.
 
 1. Run to make object crops via YOLOv5
