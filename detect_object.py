@@ -17,8 +17,8 @@ model = torch.hub.load('ultralytics/yolov5', 'yolov5s')
 
 # Images
 
-img_path =  '/media/ashish-j/B/wheat_detection/flick_data/Images/'# or file, Path, PIL, OpenCV, numpy, list
-output_path = '/media/ashish-j/B/wheat_detection/flick_data/embeddings'
+img_path =  './Images/'# or file, Path, PIL, OpenCV, numpy, list
+#output_path = '/media/ashish-j/B/wheat_detection/flick_data/embeddings'
 count=0
 for file in os.listdir(img_path):
 	img = os.path.join(img_path,file)
