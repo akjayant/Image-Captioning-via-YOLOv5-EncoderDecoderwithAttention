@@ -36,7 +36,7 @@ A black dog and a white dog with brown spots are staring at each other in the st
 
 prediction- [['<SOS>'], ['a'], ['black'], ['and'], ['white'], ['dog'], ['is'], ['running'], ['through'], ['a'], ['.'], ['<EOS>']]
 ```
- 5. Mean BLEU-4 score on validation data is quite low. Suggested Improvements : Use Adam and shuffling of data. Maybe minibatching. Increasing number of datapoints combining other datasets since 8k is quite low smaple size.
+ 5. Mean BLEU-4 score on validation data is quite low. Suggested Improvements : Use Adam and shuffling of data. Maybe minibatching. Increasing number of datapoints combining other datasets since 8k is quite low smaple size (No of parameters >> no of datapoints, not ideal for neural nets).
 
 
 ## Citation (Flickr8K Dataset)
