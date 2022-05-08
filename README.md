@@ -35,25 +35,11 @@ A black dog and a white dog with brown spots are staring at each other in the st
 
 prediction- [['<SOS>'], ['a'], ['black'], ['and'], ['white'], ['dog'], ['is'], ['running'], ['through'], ['a'], ['.'], ['<EOS>']]
 ```
-Credits for dataeset - 
-Credits - @article{,
-title= {Flickr8k Dataset},
-keywords= {},
-author= {Micah Hodosh and Peter Young and Julia Hockenmaier},
-abstract= {8,000 photos and up to 5 captions for each photo.
+ 
 
-	We introduce a new benchmark collection for sentence-based image description and search, consisting of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events. … The images were chosen from six different Flickr groups, and tend not to contain any well-known people or locations, but were manually selected to depict a variety of scenes and situations
 
-https://i.imgur.com/6RxAndT.png
-
-## Citation
+## Citation (Flickr8K Dataset)
 
 Hodosh, Micah, Peter Young, and Julia Hockenmaier. "Framing image description as a ranking task: Data, models and evaluation metrics." Journal of Artificial Intelligence Research 47 (2013): 853-899.
 
-},
-terms= {},
-license= {},
-superseded= {},
-url= {}
-}
 
