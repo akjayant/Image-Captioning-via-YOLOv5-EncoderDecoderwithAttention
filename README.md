@@ -1,5 +1,8 @@
 # Image-Captioning-via-YOLOv5-EncoderDecoderwithAttention
 
+#### Archived : This code was just a fun project! Neither it was propely tuned nor it is properly maintained! No Updates/correction expected! Focusing on other areas, I am not a vision expert. This code runs properly for most of the people, please check if images are getting populated properly for you if there is an error!**
+
+
 Use original Flickr8K dataset. - https://www.kaggle.com/datasets/adityajn105/flickr8k 
 
 PUT 'Images' directory and 'captions.txt' in the same directory as in root of this repo.
